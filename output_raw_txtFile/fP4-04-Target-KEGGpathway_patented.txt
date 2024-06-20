@@ -1,0 +1,253 @@
+
+TTD - Therapeutic Targets Database Full Data Download File
+Title - KEGG pathway data for patented targets only
+Version 7.1.01 (2019.07.14)
+Provided by IDRB   Lab of Innovative Drug Reasearch and Bioinformatics
+                   College of Pharmaceutical Sciences
+                   Zhejiang University
+                   https://idrblab.org/
+Provided by BIDD   BioInformatic and Drug Design Group
+                   Department of Pharmacy
+                   National Unviersity of Singapore
+                   http://bidd.nus.edu.sg/
+Any question about data provided here, please contact with:
+Dr. Wang (lfwyx@zju.edu.cn) and Dr. Li (lifengcheng@zju.edu.cn)
+
+--------------------------------------------------------------------------------------------------------
+
+TTDID	KEGG pathway ID	KEGG pathway name
+T00663	hsa04010	MAPK signaling pathway
+T00663	hsa04012	ErbB signaling pathway
+T00663	hsa04014	Ras signaling pathway
+T00663	hsa04024	cAMP signaling pathway
+T00663	hsa04068	FoxO signaling pathway
+T00663	hsa04071	Sphingolipid signaling pathway
+T00663	hsa04141	Protein processing in endoplasmic reticulum
+T00663	hsa04310	Wnt signaling pathway
+T00663	hsa04380	Osteoclast differentiation
+T00663	hsa04510	Focal adhesion
+T00663	hsa04620	Toll-like receptor signaling pathway
+T00663	hsa04621	NOD-like receptor signaling pathway
+T00663	hsa04622	RIG-I-like receptor signaling pathway
+T00663	hsa04664	Fc epsilon RI signaling pathway
+T00663	hsa04668	TNF signaling pathway
+T00663	hsa04722	Neurotrophin signaling pathway
+T00663	hsa04723	Retrograde endocannabinoid signaling
+T00663	hsa04728	Dopaminergic synapse
+T00663	hsa04750	Inflammatory mediator regulation of TRP channels
+T00663	hsa04910	Insulin signaling pathway
+T00663	hsa04912	GnRH signaling pathway
+T00663	hsa04914	Progesterone-mediated oocyte maturation
+T00663	hsa04917	Prolactin signaling pathway
+T00663	hsa04920	Adipocytokine signaling pathway
+T00663	hsa04930	Type II diabetes mellitus
+T00663	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T00663	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T00663	hsa05131	Shigellosis
+T00663	hsa05132	Salmonella infection
+T00663	hsa05133	Pertussis
+T00663	hsa05142	Chagas disease (American trypanosomiasis)
+T00663	hsa05145	Toxoplasmosis
+T00663	hsa05152	Tuberculosis
+T00663	hsa05160	Hepatitis C
+T00663	hsa05161	Hepatitis B
+T00663	hsa05164	Influenza A
+T00663	hsa05168	Herpes simplex infection
+T00663	hsa05169	Epstein-Barr virus infection
+T00663	hsa05200	Pathways in cancer
+T00663	hsa05210	Colorectal cancer
+T00663	hsa05212	Pancreatic cancer
+T00663	hsa05231	Choline metabolism in cancer
+T03818	hsa03320	PPAR signaling pathway
+T03818	hsa04152	AMPK signaling pathway
+T03818	hsa04380	Osteoclast differentiation
+T03818	hsa05016	Huntington's disease
+T03818	hsa05200	Pathways in cancer
+T03818	hsa05202	Transcriptional misregulation in cancer
+T03818	hsa05216	Thyroid cancer
+T04123	hsa04010	MAPK signaling pathway
+T05387	hsa05016	Huntington's disease
+T06792	hsa03050	Proteasome
+T07217	hsa03320	PPAR signaling pathway
+T09022	hsa03050	Proteasome
+T14894	hsa04210	Apoptosis
+T14894	hsa04622	RIG-I-like receptor signaling pathway
+T14894	hsa04668	TNF signaling pathway
+T14894	hsa05152	Tuberculosis
+T14894	hsa05161	Hepatitis B
+T15700	hsa04115	p53 signaling pathway
+T15700	hsa04210	Apoptosis
+T15700	hsa04620	Toll-like receptor signaling pathway
+T15700	hsa04621	NOD-like receptor signaling pathway
+T15700	hsa04622	RIG-I-like receptor signaling pathway
+T15700	hsa04668	TNF signaling pathway
+T15700	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T15700	hsa05010	Alzheimer's disease
+T15700	hsa05016	Huntington's disease
+T15700	hsa05134	Legionellosis
+T15700	hsa05142	Chagas disease (American trypanosomiasis)
+T15700	hsa05145	Toxoplasmosis
+T15700	hsa05152	Tuberculosis
+T15700	hsa05161	Hepatitis B
+T15700	hsa05168	Herpes simplex infection
+T15700	hsa05200	Pathways in cancer
+T15700	hsa05203	Viral carcinogenesis
+T15700	hsa05416	Viral myocarditis
+T15776	hsa04066	HIF-1 signaling pathway
+T15776	hsa04360	Axon guidance
+T15776	hsa05230	Central carbon metabolism in cancer
+T16042	hsa00590	Arachidonic acid metabolism
+T16042	hsa00591	Linoleic acid metabolism
+T16042	hsa01100	Metabolic pathways
+T16042	hsa04726	Serotonergic synapse
+T20600	hsa04210	Apoptosis
+T20973	hsa04360	Axon guidance
+T20973	hsa05010	Alzheimer's disease
+T20973	hsa05030	Cocaine addiction
+T21507	hsa03320	PPAR signaling pathway
+T28887	hsa05034	Alcoholism
+T28887	hsa05203	Viral carcinogenesis
+T29355	hsa00270	Cysteine and methionine metabolism
+T29355	hsa01100	Metabolic pathways
+T29355	hsa05206	MicroRNAs in cancer
+T30803	hsa00480	Glutathione metabolism
+T30803	hsa04918	Thyroid hormone synthesis
+T34389	hsa04723	Retrograde endocannabinoid signaling
+T40812	hsa03410	Base excision repair
+T40812	hsa04210	Apoptosis
+T40812	hsa04217	Necroptosis
+T42932	hsa04620	Toll-like receptor signaling pathway
+T42932	hsa05152	Tuberculosis
+T43814	hsa04064	NF-kappa B signaling pathway
+T43814	hsa04620	Toll-like receptor signaling pathway
+T43814	hsa05133	Pertussis
+T43814	hsa05152	Tuberculosis
+T43814	hsa05161	Hepatitis B
+T43814	hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+T44190	hsa04064	NF-kappa B signaling pathway
+T44190	hsa04217	Necroptosis
+T44190	hsa04620	Toll-like receptor signaling pathway
+T44190	hsa04621	NOD-like receptor signaling pathway
+T44190	hsa05133	Pertussis
+T44190	hsa05135	Yersinia infection
+T44190	hsa05142	Chagas disease (American trypanosomiasis)
+T44190	hsa05160	Hepatitis C
+T44190	hsa05161	Hepatitis B
+T44190	hsa05164	Influenza A
+T44190	hsa05165	Human papillomavirus infection
+T44190	hsa05167	Kaposi sarcoma-associated herpesvirus infection
+T44190	hsa05168	Herpes simplex virus 1 infection
+T44190	hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+T44818	hsa00380	Tryptophan metabolism
+T44818	hsa01100	Metabolic pathways
+T46702	hsa04145	Phagosome
+T46702	hsa05152	Tuberculosis
+T50035	hsa04514	Cell adhesion molecules (CAMs)
+T55986	hsa03050	Proteasome
+T58298	hsa00230	Purine metabolism
+T58298	hsa00240	Pyrimidine metabolism
+T58298	hsa05169	Epstein-Barr virus infection
+T59459	hsa04010	MAPK signaling pathway
+T61746	hsa04142	Lysosome
+T61746	hsa04612	Antigen processing and presentation
+T62266	hsa00380	Tryptophan metabolism
+T62266	hsa01100	Metabolic pathways
+T62266	hsa05143	African trypanosomiasis
+T62841	hsa04080	Neuroactive ligand-receptor interaction
+T62841	hsa04750	Inflammatory mediator regulation of TRP channels
+T62841	hsa05143	African trypanosomiasis
+T63512	hsa00565	Ether lipid metabolism
+T64205	hsa04062	Chemokine signaling pathway
+T64205	hsa04380	Osteoclast differentiation
+T64205	hsa04620	Toll-like receptor signaling pathway
+T64205	hsa04630	Jak-STAT signaling pathway
+T64205	hsa04917	Prolactin signaling pathway
+T64205	hsa04919	Thyroid hormone signaling pathway
+T64205	hsa05140	Leishmaniasis
+T64205	hsa05145	Toxoplasmosis
+T64205	hsa05152	Tuberculosis
+T64205	hsa05160	Hepatitis C
+T64205	hsa05161	Hepatitis B
+T64205	hsa05162	Measles
+T64205	hsa05164	Influenza A
+T64205	hsa05168	Herpes simplex infection
+T64205	hsa05200	Pathways in cancer
+T64205	hsa05212	Pancreatic cancer
+T64205	hsa05321	Inflammatory bowel disease (IBD)
+T66925	hsa04610	Complement and coagulation cascades
+T67812	hsa00510	N-Glycan biosynthesis
+T67812	hsa01100	Metabolic pathways
+T69375	hsa04010	MAPK signaling pathway
+T69375	hsa04012	ErbB signaling pathway
+T69375	hsa04014	Ras signaling pathway
+T69375	hsa04024	cAMP signaling pathway
+T69375	hsa04068	FoxO signaling pathway
+T69375	hsa04071	Sphingolipid signaling pathway
+T69375	hsa04141	Protein processing in endoplasmic reticulum
+T69375	hsa04310	Wnt signaling pathway
+T69375	hsa04380	Osteoclast differentiation
+T69375	hsa04510	Focal adhesion
+T69375	hsa04620	Toll-like receptor signaling pathway
+T69375	hsa04621	NOD-like receptor signaling pathway
+T69375	hsa04622	RIG-I-like receptor signaling pathway
+T69375	hsa04660	T cell receptor signaling pathway
+T69375	hsa04664	Fc epsilon RI signaling pathway
+T69375	hsa04668	TNF signaling pathway
+T69375	hsa04722	Neurotrophin signaling pathway
+T69375	hsa04723	Retrograde endocannabinoid signaling
+T69375	hsa04728	Dopaminergic synapse
+T69375	hsa04750	Inflammatory mediator regulation of TRP channels
+T69375	hsa04910	Insulin signaling pathway
+T69375	hsa04912	GnRH signaling pathway
+T69375	hsa04914	Progesterone-mediated oocyte maturation
+T69375	hsa04917	Prolactin signaling pathway
+T69375	hsa04920	Adipocytokine signaling pathway
+T69375	hsa04930	Type II diabetes mellitus
+T69375	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T69375	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T69375	hsa05131	Shigellosis
+T69375	hsa05132	Salmonella infection
+T69375	hsa05133	Pertussis
+T69375	hsa05142	Chagas disease (American trypanosomiasis)
+T69375	hsa05145	Toxoplasmosis
+T69375	hsa05152	Tuberculosis
+T69375	hsa05160	Hepatitis C
+T69375	hsa05161	Hepatitis B
+T69375	hsa05164	Influenza A
+T69375	hsa05168	Herpes simplex infection
+T69375	hsa05169	Epstein-Barr virus infection
+T69375	hsa05200	Pathways in cancer
+T69375	hsa05210	Colorectal cancer
+T69375	hsa05212	Pancreatic cancer
+T69375	hsa05231	Choline metabolism in cancer
+T75386	hsa00561	Glycerolipid metabolism
+T75386	hsa00830	Retinol metabolism
+T75386	hsa01100	Metabolic pathways
+T75386	hsa04975	Fat digestion and absorption
+T77236	hsa04142	Lysosome
+T80853	hsa03010	Ribosome
+T81452	hsa04723	Retrograde endocannabinoid signaling
+T85250	hsa04062	Chemokine signaling pathway
+T85250	hsa04728	Dopaminergic synapse
+T85250	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T86702	hsa04668	TNF signaling pathway
+T86702	hsa05202	Transcriptional misregulation in cancer
+T86702	hsa05323	Rheumatoid arthritis
+T90167	hsa03320	PPAR signaling pathway
+T92517	hsa04141	Protein processing in endoplasmic reticulum
+T92517	hsa04210	Apoptosis
+T92517	hsa04217	Necroptosis
+T92517	hsa04218	Cellular senescence
+T92517	hsa05010	Alzheimer disease
+T93653	hsa04142	Lysosome
+T97903	hsa05034	Alcoholism
+T97903	hsa05203	Viral carcinogenesis
+T98062	hsa00500	Starch and sucrose metabolism
+T98062	hsa01100	Metabolic pathways
+T98062	hsa04910	Insulin signaling pathway
+T98062	hsa04922	Glucagon signaling pathway
+T98459	hsa04068	FoxO signaling pathway
+T98459	hsa04110	Cell cycle
+T98459	hsa04114	Oocyte meiosis
+T98459	hsa04115	p53 signaling pathway
+T98459	hsa04914	Progesterone-mediated oocyte maturation

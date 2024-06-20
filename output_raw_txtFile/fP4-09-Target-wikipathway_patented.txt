@@ -1,0 +1,201 @@
+
+TTD - Therapeutic Targets Database Full Data Download File
+Title - Wiki pathway data for TTD patented targets only
+Version 7.1.01 (2019.07.14)
+Provided by IDRB   Lab of Innovative Drug Reasearch and Bioinformatics
+                   College of Pharmaceutical Sciences
+                   Zhejiang University
+                   https://idrblab.org/
+Provided by BIDD   BioInformatic and Drug Design Group
+                   Department of Pharmacy
+                   National Unviersity of Singapore
+                   http://bidd.nus.edu.sg/
+Any question about data provided here, please contact with:
+Dr. Wang (lfwyx@zju.edu.cn) and Dr. Li (lifengcheng@zju.edu.cn)
+
+--------------------------------------------------------------------------------------------------------
+
+TTDID	Wiki pathway ID	Wiki pathway name
+T00663	WP75	Toll-like receptor signaling pathway
+T00663	WP710	DNA Damage Response (only ATM dependent)
+T00663	WP524	G13 Signaling Pathway
+T00663	WP481	Insulin Signaling
+T00663	WP428	Wnt Signaling Pathway
+T00663	WP422	MAPK Cascade
+T00663	WP408	Oxidative Stress
+T00663	WP399	Wnt Signaling Pathway and Pluripotency
+T00663	WP384	Apoptosis Modulation by HSP70
+T00663	WP382	MAPK Signaling Pathway
+T00663	WP2643	Nanoparticle-mediated activation of receptor signaling
+T00663	WP2637	Structural Pathway of Interleukin 1 (IL-1)
+T00663	WP254	Apoptosis
+T00663	WP2380	BDNF signaling pathway
+T00663	WP185	Integrin-mediated Cell Adhesion
+T00663	WP1449	Regulation of toll-like receptor signaling pathway
+T03818	WP363	Wnt Signaling Pathway Netpath
+T03818	WP299	Nuclear Receptors in Lipid Metabolism and Toxicity
+T03818	WP2895	Differentiation of white and brown adipocyte   
+T03818	WP2797	Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+T03818	WP2751	Transcriptional Regulation of White Adipocyte Differentiation
+T03818	WP236	Adipogenesis
+T03818	WP1982	SREBP signalling
+T03818	WP170	Nuclear Receptors
+T07217	WP2764	Lipid digestion, mobilization, and transport
+T07217	WP2751	Transcriptional Regulation of White Adipocyte Differentiation
+T10822	WP2797	Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+T10822	WP2755	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+T10822	WP2751	Transcriptional Regulation of White Adipocyte Differentiation
+T10822	WP2720	Signaling by NOTCH1
+T10822	WP1982	SREBP signalling
+T10822	WP1822	Generic Transcription Pathway
+T15700	WP75	Toll-like receptor signaling pathway
+T15700	WP707	DNA Damage Response
+T15700	WP384	Apoptosis Modulation by HSP70
+T15700	WP314	FAS pathway and Stress induction of HSP regulation
+T15700	WP2752	MyD88-independent cascade 
+T15700	WP254	Apoptosis
+T15700	WP2513	Nanoparticle triggered regulated necrosis
+T15700	WP2377	Integrated Pancreatic Cancer Pathway
+T15700	WP2359	Parkin-Ubiquitin Proteasomal System pathway
+T15700	WP2328	Allograft Rejection
+T15700	WP2324	AGE/RAGE pathway
+T15700	WP231	TNF alpha Signaling Pathway
+T15700	WP2263	Prostate Cancer
+T15700	WP2059	Alzheimers Disease
+T15700	WP2036	TWEAK Signaling Pathway
+T15700	WP1984	Integrated Breast Cancer Pathway
+T15700	WP1971	Integrated Cancer pathway
+T15700	WP1904	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways
+T15700	WP1841	Intrinsic Pathway for Apoptosis
+T15700	WP1814	Extrinsic Pathway for Apoptosis
+T15700	WP1784	Apoptotic execution  phase
+T15700	WP1772	Apoptosis Modulation and Signaling
+T15700	WP1530	miRNA Regulation of DNA Damage Response
+T15700	WP1449	Regulation of toll-like receptor signaling pathway
+T15700	WP1433	NOD pathway
+T16042	WP2650	Arachidonic acid metabolism
+T16042	WP167	Eicosanoid Synthesis
+T20973	WP707	DNA Damage Response
+T20973	WP2380	BDNF signaling pathway
+T20973	WP2059	Alzheimers Disease
+T20973	WP1978	Opioid Signalling
+T20973	WP1907	Semaphorin interactions
+T20973	WP1815	Factors involved in megakaryocyte development and platelet production
+T20973	WP1602	Nicotine Activity on Dopaminergic Neurons
+T20973	WP1530	miRNA Regulation of DNA Damage Response
+T28887	WP2377	Integrated Pancreatic Cancer Pathway
+T28887	WP2064	Neural Crest Differentiation
+T28887	WP179	Cell Cycle
+T30803	WP702	Metapathway biotransformation
+T30803	WP692	Sulfation Biotransformation Reaction
+T30803	WP408	Oxidative Stress
+T30803	WP2884	NRF2 pathway
+T30803	WP2882	Nuclear Receptors Meta-Pathway
+T30803	WP15	Selenium Micronutrient Network
+T30803	WP100	Glutathione metabolism
+T46685	WP411	mRNA Processing
+T51385	WP2728	Incretin Synthesis, Secretion, and Inactivation
+T51385	WP1825	GPCR ligand binding
+T62841	WP455	GPCRs, Class A Rhodopsin-like
+T62841	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
+T62841	WP1825	GPCR ligand binding
+T62841	WP1824	GPCR downstream signaling
+T64205	WP75	Toll-like receptor signaling pathway
+T64205	WP619	Type II interferon signaling (IFNG)
+T64205	WP585	Interferon type I signaling pathways
+T64205	WP581	EPO Receptor Signaling
+T64205	WP560	TGF Beta Signaling Pathway
+T64205	WP49	IL-2 Signaling Pathway
+T64205	WP474	Endochondral Ossification
+T64205	WP437	EGF/EGFR Signaling Pathway
+T64205	WP400	p38 MAPK Signaling Pathway
+T64205	WP395	IL-4 Signaling Pathway
+T64205	WP364	IL-6 signaling pathway
+T64205	WP304	Kit receptor signaling pathway
+T64205	WP2853	Endoderm Differentiation
+T64205	WP2713	Signaling by SCF-KIT
+T64205	WP2593	JAK/STAT
+T64205	WP2526	PDGF Pathway
+T64205	WP2380	BDNF signaling pathway
+T64205	WP2377	Integrated Pancreatic Cancer Pathway
+T64205	WP2374	Oncostatin M Signaling Pathway
+T64205	WP236	Adipogenesis
+T64205	WP2332	Interleukin-11 Signaling Pathway
+T64205	WP2328	Allograft Rejection
+T64205	WP2324	AGE/RAGE pathway
+T64205	WP2263	Prostate Cancer
+T64205	WP2203	TSLP Signaling Pathway
+T64205	WP22	IL-9 Signaling Pathway
+T64205	WP2113	Type III interferon signaling
+T64205	WP205	IL-7 Signaling Pathway
+T64205	WP2034	Leptin signaling pathway
+T64205	WP2032	TSH signaling pathway
+T64205	WP2018	RANKL/RANK Signaling Pathway
+T64205	WP1984	Integrated Breast Cancer Pathway
+T64205	WP1971	Integrated Cancer pathway
+T64205	WP1916	Signaling by PDGF
+T64205	WP1449	Regulation of toll-like receptor signaling pathway
+T64205	WP127	IL-5 Signaling Pathway
+T69375	WP75	Toll-like receptor signaling pathway
+T69375	WP710	DNA Damage Response (only ATM dependent)
+T69375	WP69	TCR Signaling Pathway
+T69375	WP560	TGF Beta Signaling Pathway
+T69375	WP481	Insulin Signaling
+T69375	WP437	EGF/EGFR Signaling Pathway
+T69375	WP428	Wnt Signaling Pathway
+T69375	WP399	Wnt Signaling Pathway and Pluripotency
+T69375	WP382	MAPK Signaling Pathway
+T69375	WP366	TGF beta Signaling Pathway
+T69375	WP2643	Nanoparticle-mediated activation of receptor signaling
+T69375	WP2637	Structural Pathway of Interleukin 1 (IL-1)
+T69375	WP2593	JAK/STAT
+T69375	WP2516	ATM Signaling Pathway
+T69375	WP2380	BDNF signaling pathway
+T69375	WP2377	Integrated Pancreatic Cancer Pathway
+T69375	WP2374	Oncostatin M Signaling Pathway
+T69375	WP2355	Corticotropin-releasing hormone
+T69375	WP2324	AGE/RAGE pathway
+T69375	WP231	TNF alpha Signaling Pathway
+T69375	WP23	B Cell Receptor Signaling Pathway
+T69375	WP2203	TSLP Signaling Pathway
+T69375	WP2036	TWEAK Signaling Pathway
+T69375	WP2018	RANKL/RANK Signaling Pathway
+T69375	WP195	IL-1 signaling pathway
+T69375	WP1449	Regulation of toll-like receptor signaling pathway
+T75386	WP716	Vitamin A and Carotenoid Metabolism
+T75386	WP430	Statin Pathway
+T75386	WP325	Triacylglyceride Synthesis
+T75386	WP2740	Glycerophospholipid biosynthesis
+T75386	WP1817	Fatty acid, triacylglycerol, and ketone body metabolism
+T79155	WP2840	Hair Follicle Development: Cytodifferentiation (Part 3 of 3)
+T85250	WP500	Glycogen Metabolism
+T85250	WP481	Insulin Signaling
+T85250	WP363	Wnt Signaling Pathway Netpath
+T85250	WP2667	Activation of Chaperone Genes by XBP1(S)
+T85250	WP2583	T-Cell Receptor and Co-stimulatory Signaling
+T85250	WP2377	Integrated Pancreatic Cancer Pathway
+T85250	WP23	B Cell Receptor Signaling Pathway
+T85250	WP2034	Leptin signaling pathway
+T85250	WP1984	Integrated Breast Cancer Pathway
+T85250	WP1982	SREBP signalling
+T85250	WP127	IL-5 Signaling Pathway
+T86702	WP2769	Activation of Matrix Metalloproteinases
+T86702	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
+T86702	WP2374	Oncostatin M Signaling Pathway
+T86702	WP129	Matrix Metalloproteinases
+T93653	WP474	Endochondral Ossification
+T98062	WP500	Glycogen Metabolism
+T98062	WP1848	Metabolism of carbohydrates
+T98459	WP707	DNA Damage Response
+T98459	WP45	G1 to S cell cycle control
+T98459	WP2654	Mitotic Prophase
+T98459	WP2652	Mitotic Prometaphase
+T98459	WP2516	ATM Signaling Pathway
+T98459	WP2446	Retinoblastoma (RB) in Cancer
+T98459	WP1859	Mitotic G2-G2/M phases
+T98459	WP1858	Mitotic G1-G1/S phases
+T98459	WP179	Cell Cycle
+T98459	WP1782	APC/C-mediated degradation of cell cycle proteins
+T98459	WP1775	Cell Cycle Checkpoints
+T98459	WP1530	miRNA Regulation of DNA Damage Response
+T98459	WP1403	AMPK Signaling

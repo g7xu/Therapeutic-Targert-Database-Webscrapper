@@ -1,0 +1,943 @@
+
+TTD - Therapeutic Targets Database Full Data Download File
+Title - Uniprot IDs for all TTD targets
+Version 10.1.01 (2024.01.10)
+Provided by IDRB   Lab of Innovative Drug Reasearch and Bioinformatics
+                   College of Pharmaceutical Sciences
+                   Zhejiang University
+                   https://idrblab.org/
+Provided by BIDD   BioInformatic and Drug Design Group
+                   Department of Pharmacy
+                   National Unviersity of Singapore
+                   https://bidd.group/
+Any question about data provided here, please contact with:
+Dr. Zhou (zhou_ying@zju.edu.cn) and Dr. Zhang (zhangyintao@zju.edu.cn)
+
+--------------------------------------------------------------------------------------------------------
+Abbreviation Index:
+TARGETID	TTD Target ID
+UNIPROID	Uniprot ID
+TARGNAME	Target Name
+TARGTYPE	Target Type
+-------------------------------------------------------------------------------------------------------
+
+TARGETID	T00348
+UNIPROID	ABL1_HUMAN
+TARGNAME	ABL T315I mutant (ABL T315I)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T00663
+UNIPROID	MK10_HUMAN
+TARGNAME	Stress-activated protein kinase JNK3 (JNK3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T01271
+UNIPROID	BCR_HUMAN-ABL1_HUMAN
+TARGNAME	Fusion protein Bcr-Abl T315I mutant (Bcr-Abl T315I)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T02629
+UNIPROID	NOUNIPROTAC
+TARGNAME	JNK-interacting protein peptide (pepJIP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T03145
+UNIPROID	TLR1_HUMAN-TLR2_HUMAN
+TARGNAME	TLR1-TLR2 complex (TLR1/2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T03150
+UNIPROID	DGLA_HUMAN
+TARGNAME	Diacylglycerol lipase alpha (DAGLA)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T03279
+UNIPROID	KS6A3_HUMAN
+TARGNAME	Ribosomal protein S6 kinase alpha-3 (RSK3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T03529
+UNIPROID	RGS8_HUMAN
+TARGNAME	Regulator of G-protein signaling 8 (RGS8)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T03687
+UNIPROID	HDAC9_HUMAN
+TARGNAME	Histone deacetylase 9 (HDAC9)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T04123
+UNIPROID	PPP5_HUMAN
+TARGNAME	Serine/threonine-protein phosphatase 5 (PPP5C)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T04512
+UNIPROID	EZH2_HUMAN
+TARGNAME	EZH2 Y641F mutant (EZH2 Y641F)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T04820
+UNIPROID	P90584_PLAFA
+TARGNAME	Plasmodium CDK Pfmrk (Malaria Pfmrk)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T04831
+UNIPROID	E2AK2_HUMAN
+TARGNAME	Tyrosine-protein kinase EIF2AK2 (p68)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T04980
+UNIPROID	EZH2_HUMAN
+TARGNAME	EZH2 Y641N mutant (EZH2 Y641N)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T05034
+UNIPROID	NOUNIPROTAC
+TARGNAME	Fatty acid-binding protein (FABP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T05880
+UNIPROID	APH1A_HUMAN-APH1B_HUMAN
+TARGNAME	Gamma-secretase subunit APH-1A/1B (APH-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T05904
+UNIPROID	PDE8A_HUMAN
+TARGNAME	Phosphodiesterase 8 (PDE8)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T06773
+UNIPROID	NOUNIPROTAC
+TARGNAME	Hypoxia-inducible factor 1 (HIF-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T06792
+UNIPROID	PSB9_HUMAN
+TARGNAME	Proteasome beta-9 (PS beta-9)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T07191
+UNIPROID	M4K2_HUMAN
+TARGNAME	MEK kinase kinase 2 (MAP4K2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T07217
+UNIPROID	FABP4_HUMAN
+TARGNAME	Fatty acid-binding protein 4 (FABP4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T07930
+UNIPROID	HDAC5_HUMAN
+TARGNAME	Histone deacetylase 5 (HDAC5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T08741
+UNIPROID	CSK_HUMAN
+TARGNAME	Tyrosine-protein kinase CSK (CSK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09022
+UNIPROID	PSB10_HUMAN
+TARGNAME	Proteasome beta-10 (PS beta-10)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09128
+UNIPROID	CASP2_HUMAN
+TARGNAME	Caspase-2 (CASP2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09185
+UNIPROID	DDR1_HUMAN
+TARGNAME	Epithelial discoidin domain receptor 1 (DDR1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09197
+UNIPROID	LRRK2_HUMAN
+TARGNAME	Leucine-rich repeat kinase 2 G2019S mutant (LRRK2 G2019S)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09544
+UNIPROID	LEG1_HUMAN
+TARGNAME	Galectin-1 (LGALS1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09672
+UNIPROID	PTN13_HUMAN
+TARGNAME	FAP-1 messenger RNA (PTPN13 mRNA)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09874
+UNIPROID	POLG_HCV1
+TARGNAME	Hepatitis C virus Core protein messenger RNA (HCV Core mRNA)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T09977
+UNIPROID	LRRK2_HUMAN
+TARGNAME	Leucine-rich repeat kinase 2 S935 phosphorylation (LRRK2 pS935)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T10118
+UNIPROID	CTRC_HUMAN
+TARGNAME	Chymotrypsin-C (CLCR)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T10565
+UNIPROID	NOUNIPROTAC
+TARGNAME	Lysine-specific demethylase 4 (KDM4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11192
+UNIPROID	ADA33_HUMAN
+TARGNAME	ADAM metallopeptidase 33 (ADAM33)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11241
+UNIPROID	S1PR3_HUMAN
+TARGNAME	Sphingosine-1-phosphate receptor 3 (S1PR3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11764
+UNIPROID	DDR2_HUMAN
+TARGNAME	Discoidin domain-containing receptor 2 (DDR2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11791
+UNIPROID	ACATN_HUMAN
+TARGNAME	Acetyl-CoA transporter (SLC33A1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11808
+UNIPROID	KLK5_HUMAN
+TARGNAME	Kallikrein-5 (KLK5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T11824
+UNIPROID	TAU_HUMAN
+TARGNAME	Microtubule-associated protein tau phosphorylation (MAPT p)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T12081
+UNIPROID	PDE4C_HUMAN
+TARGNAME	Phosphodiesterase 4C (PDE4C)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T12183
+UNIPROID	NOUNIPROTAC
+TARGNAME	NAD-dependent deacetylase sirtuin (SIRT)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T12241
+UNIPROID	CGL_HUMAN
+TARGNAME	Cystathionine gamma-lyase (CTH)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T12797
+UNIPROID	B2LA1_HUMAN
+TARGNAME	Bcl-2-related protein A1 (BCL2A1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T12952
+UNIPROID	UBP33_HUMAN
+TARGNAME	VHL-interacting deubiquitinating enzyme 1 (VDU1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T13616
+UNIPROID	ILK_HUMAN
+TARGNAME	Integrin-linked protein kinase 1 (ILK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T13629
+UNIPROID	PDCD1_HUMAN-PD1L1_HUMAN
+TARGNAME	PD-1-PD-L1 interaction (PD-1/PD-L1 PPI)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T14894
+UNIPROID	CASPA_HUMAN
+TARGNAME	Caspase-10 (CASP10)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T15441
+UNIPROID	UCHL5_HUMAN
+TARGNAME	Ubiquitin C-terminal hydrolase UCH37 (UCHL5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T15518
+UNIPROID	SO2A1_HUMAN
+TARGNAME	Prostaglandin transporter (SLC21A2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T15700
+UNIPROID	CASP8_HUMAN
+TARGNAME	Caspase-8 (CASP8)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T15848
+UNIPROID	TEC_HUMAN
+TARGNAME	Tyrosine-protein kinase Tec (PSCTK4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T15923
+UNIPROID	NOUNIPROTAC
+TARGNAME	Serine/threonine-protein phosphatase (PSP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T16042
+UNIPROID	LOX15_HUMAN
+TARGNAME	Arachidonate 15-lipoxygenase (15-LOX)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T16215
+UNIPROID	SMO_HUMAN
+TARGNAME	Smoothened D473H mutant (SMO D473H)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T16224
+UNIPROID	NOUNIPROTAC
+TARGNAME	Sphingosine kinase (SphK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T16596
+UNIPROID	PIM3_HUMAN
+TARGNAME	PIM-3 protein kinase (PIM3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T16685
+UNIPROID	RET_HUMAN
+TARGNAME	RET G691S mutant (RET G691S)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17036
+UNIPROID	KDM4E_HUMAN
+TARGNAME	Lysine-specific demethylase 4E (KDM4E)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17134
+UNIPROID	RET_HUMAN
+TARGNAME	RET M918T mutant (RET M918T)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17228
+UNIPROID	PARP3_HUMAN
+TARGNAME	Poly [ADP-ribose] polymerase 3 (PARP3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17279
+UNIPROID	RET_HUMAN
+TARGNAME	RET S891A mutant (RET S891A)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17566
+UNIPROID	RET_HUMAN
+TARGNAME	RET V804L mutant (RET V804L)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T17919
+UNIPROID	RET_HUMAN
+TARGNAME	RET V804M mutant (RET V804M)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T18250
+UNIPROID	RET_HUMAN
+TARGNAME	RET Y791F mutant (RET Y791F)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T18551
+UNIPROID	CD80_HUMAN-PD1L1_HUMAN
+TARGNAME	CD80-PD-L1 interaction (CD80/PD-L1 PPI)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T18904
+UNIPROID	KDM4A_HUMAN
+TARGNAME	Lysine-specific demethylase 4A (KDM4A)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T19184
+UNIPROID	PYGL_HUMAN; PYGM_HUMAN; PYGB_HUMAN
+TARGNAME	Glycogen phosphorylase (PYG)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T19543
+UNIPROID	NOUNIPROTAC
+TARGNAME	Phosphoprotein phosphatases 1 (PP1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20027
+UNIPROID	STA5A_HUMAN; STA5B_HUMAN
+TARGNAME	Signal transducer and activator of transcription 5 (STAT5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20371
+UNIPROID	PCP_HUMAN
+TARGNAME	Prolylcarboxypeptidase (PRCP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20600
+UNIPROID	CASP6_HUMAN
+TARGNAME	Caspase-6 (CASP6)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20669
+UNIPROID	KAPCA_HUMAN
+TARGNAME	PRKACA messenger RNA (PRKACA mRNA)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20953
+UNIPROID	BUB1_HUMAN
+TARGNAME	BUB1 mitotic checkpoint serine/threonine kinase (BUB1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20958
+UNIPROID	NPSR1_HUMAN
+TARGNAME	Neuropeptide S receptor (NPSR)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T20973
+UNIPROID	CDK5_HUMAN
+TARGNAME	Cyclin-dependent kinase 5 (CDK5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T21357
+UNIPROID	PDE3B_HUMAN
+TARGNAME	Phosphodiesterase 3B (PDE3B)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T21507
+UNIPROID	FABP5_HUMAN
+TARGNAME	Fatty acid-binding protein 5 (FABP5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T22104
+UNIPROID	GREM1_HUMAN
+TARGNAME	Gremlin-1 (Gremlin-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T24823
+UNIPROID	KDM1B_HUMAN
+TARGNAME	Lysine-specific histone demethylase 1B (KDM1B)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T28052
+UNIPROID	KDM5A_HUMAN
+TARGNAME	Lysine-specific demethylase 5A (KDM5A)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T29355
+UNIPROID	DNM3A_HUMAN
+TARGNAME	DNA [cytosine-5]-methyltransferase 3A (DNMT3A)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T30803
+UNIPROID	GSHR_HUMAN
+TARGNAME	Glutathione reductase (GR)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T31406
+UNIPROID	HCK_HUMAN
+TARGNAME	Hematopoietic cell kinase (HCK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T31543
+UNIPROID	ST14_HUMAN
+TARGNAME	Suppressor of tumorigenicity 14 protein (ST14)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T32335
+UNIPROID	NOUNIPROTAC
+TARGNAME	Inhibitor of nuclear factor kappa-B kinase (IKK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T32880
+UNIPROID	EGLN1_HUMAN
+TARGNAME	HIF-prolyl hydroxylase 2 (HPH-2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T33492
+UNIPROID	TYDP1_HUMAN
+TARGNAME	Tyrosyl-DNA phosphodiesterase 1 (TDP1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T34389
+UNIPROID	FAAH1_HUMAN
+TARGNAME	Fatty-acid amide hydrolase 1 (FAAH1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T36725
+UNIPROID	CBPB1_HUMAN
+TARGNAME	Carboxypeptidase B1 (CPB1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T37541
+UNIPROID	CAH7_HUMAN
+TARGNAME	Carbonic anhydrase VII (CA-VII)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T38996
+UNIPROID	PLD1_HUMAN
+TARGNAME	Phospholipase D1 (PLD1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T39195
+UNIPROID	KLK14_HUMAN
+TARGNAME	Kallikrein-14 (KLK14)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T39486
+UNIPROID	DYRK2_HUMAN
+TARGNAME	Dual-specificity tyrosine-phosphorylation regulated kinase 2 (DYRK2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T40488
+UNIPROID	MMP10_HUMAN
+TARGNAME	Matrix metalloproteinase-10 (MMP-10)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T40890
+UNIPROID	GLI1_HUMAN
+TARGNAME	Zinc finger protein GLI1 (Gli1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T41666
+UNIPROID	HGXR_PLAFG
+TARGNAME	Plasmodium Hypoxanthine-guanine phosphoribosyltransferase (Malaria LACZ)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T42157
+UNIPROID	M3K19_HUMAN
+TARGNAME	SPS1/STE20-related protein kinase YSK4 (YSK4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T42247
+UNIPROID	BIRC7_HUMAN
+TARGNAME	Melanoma inhibitor of apoptosis protein (ML-IAP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T42881
+UNIPROID	SCAF_HCMVA
+TARGNAME	Cytomegalovirus Protease (CMV UL80)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T42932
+UNIPROID	TLR1_HUMAN
+TARGNAME	Toll-like receptor 1 (TLR1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T43814
+UNIPROID	TIRAP_HUMAN
+TARGNAME	Toll/interleukin-1 receptor domain-containing adapter (TIRAP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T44190
+UNIPROID	TCAM1_HUMAN
+TARGNAME	TIR domain-containing adapter molecule 1 (TICAM1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T45228
+UNIPROID	MBOA4_HUMAN
+TARGNAME	Ghrelin O acyltransferase (GOAT)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T46465
+UNIPROID	PLM2_PLAFA
+TARGNAME	Plasmodium Plasmepsin 2 (Malaria PLA2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T46685
+UNIPROID	CLK1_HUMAN
+TARGNAME	CDC-like kinase 1 (CLK1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T46702
+UNIPROID	PLA2R_HUMAN
+TARGNAME	Secretory phospholipase A2 receptor (PLA2R)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T47594
+UNIPROID	ACV1B_HUMAN
+TARGNAME	Activin receptor type IB (ACVR1B)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T48812
+UNIPROID	RORB_HUMAN
+TARGNAME	RAR-related orphan receptor-beta (RORB)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T49031
+UNIPROID	PSB5_HUMAN
+TARGNAME	Proteasome beta-5 (PS beta-5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T50035
+UNIPROID	PD1L2_HUMAN
+TARGNAME	Programmed cell death 1 ligand 2 (PD-L2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T50224
+UNIPROID	KS6A5_HUMAN
+TARGNAME	Ribosomal protein S6 kinase alpha-5 (RSK5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T50773
+UNIPROID	DPP2_HUMAN
+TARGNAME	Dipeptidyl-peptidase 7 (DPP7)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T52297
+UNIPROID	NR1H3_HUMAN
+TARGNAME	Oxysterols receptor LXR-alpha (NR1H3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T52447
+UNIPROID	PPID_HUMAN
+TARGNAME	Rotamase D (PPID)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T52888
+UNIPROID	RGS16_HUMAN
+TARGNAME	Regulator of G-protein signaling 16 (RGS16)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T53469
+UNIPROID	CASP4_HUMAN
+TARGNAME	Caspase-4 (CASP4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T54973
+UNIPROID	PSB6_HUMAN
+TARGNAME	Proteasome beta-1 (PS beta-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T55986
+UNIPROID	PSB7_HUMAN
+TARGNAME	Proteasome beta-2 (PS beta-2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T57050
+UNIPROID	ZUP1_HUMAN
+TARGNAME	Zinc finger-containing ubiquitin peptidase 1 (ZUP1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T58307
+UNIPROID	PPME1_HUMAN
+TARGNAME	Protein phosphatase methylesterase 1 (PME-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T58440
+UNIPROID	SCN1A_HUMAN
+TARGNAME	SCN1A messenger RNA (SCN1A mRNA)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T59190
+UNIPROID	KPCZ_HUMAN
+TARGNAME	Protein kinase C zeta (PRKCZ)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T59459
+UNIPROID	JIP1_HUMAN
+TARGNAME	JNK-interacting protein 1 peptide (pepJIP1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T59654
+UNIPROID	PLK2_HUMAN
+TARGNAME	Polo-like kinase 2 (PLK2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T62266
+UNIPROID	I23O2_HUMAN
+TARGNAME	Indoleamine 2,3-dioxygenase 2 (IDO2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T62548
+UNIPROID	ARBK1_HUMAN
+TARGNAME	Beta-adrenergic receptor kinase 1 (ADRBK1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T63024
+UNIPROID	TBK1_HUMAN
+TARGNAME	NF-kappa-B-activating kinase (TBK1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T63220
+UNIPROID	ACK1_HUMAN
+TARGNAME	Activated CDC42 kinase 1 (ACK-1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T63303
+UNIPROID	MMP2_HUMAN; MMP9_HUMAN
+TARGNAME	Gelatinase (GEL)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T63846
+UNIPROID	IRAK1_HUMAN
+TARGNAME	IL-1 receptor-associated kinase 1 (IRAK1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T64205
+UNIPROID	STAT1_HUMAN
+TARGNAME	Signal transducer and activator of transcription 1 (STAT1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T64553
+UNIPROID	ZAP70_HUMAN
+TARGNAME	Tyrosine-protein kinase ZAP-70 (ZAP-70)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T66925
+UNIPROID	F13A_HUMAN
+TARGNAME	Coagulation factor XIIIA (F13A1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T67054
+UNIPROID	NOUNIPROTAC
+TARGNAME	5-HT 1 receptor (5HT1R)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T67812
+UNIPROID	MGAT2_HUMAN
+TARGNAME	Mannoside acetylglucosaminyltransferase 2 (MGAT2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T69612
+UNIPROID	GRK5_HUMAN
+TARGNAME	G protein-coupled receptor kinase 5 (GRK5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T70851
+UNIPROID	MK07_HUMAN
+TARGNAME	Extracellular signal-regulated kinase 5 (ERK5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T71367
+UNIPROID	M4K4_HUMAN
+TARGNAME	MEK kinase kinase 4 (MAP4K4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T72491
+UNIPROID	KEAP1_HUMAN-NF2L2_HUMAN
+TARGNAME	Keap1-Nrf2[dual DLG and ETGE] PPI (KEAP1-Nrf2 DLG and ETGE)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T72881
+UNIPROID	LTC4S_HUMAN
+TARGNAME	Leukotriene C4 synthase (LTC4S)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T73471
+UNIPROID	HEPS_HUMAN
+TARGNAME	Serine protease hepsin (HPN)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T73725
+UNIPROID	CLK2_HUMAN
+TARGNAME	CDC-like kinase 2 (CLK2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T73863
+UNIPROID	KDM4C_HUMAN
+TARGNAME	Lysine-specific demethylase 4C (KDM4C)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T74307
+UNIPROID	BLK_HUMAN
+TARGNAME	B lymphocyte kinase (BLK)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T75772
+UNIPROID	ENTK_HUMAN
+TARGNAME	Enteropeptidase (TMPRSS15)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T76454
+UNIPROID	KEAP1_HUMAN-NF2L2_HUMAN
+TARGNAME	Keap1-Nrf2[ETGE] PPI (KEAP1-Nrf2 ETGE)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T77236
+UNIPROID	CATF_HUMAN
+TARGNAME	Cathepsin F (CTSF)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T77613
+UNIPROID	PDE1B_HUMAN
+TARGNAME	Phosphodiesterase 1B (PDE1B)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T78710
+UNIPROID	KCNJ1_HUMAN
+TARGNAME	Inward rectifier potassium channel Kir1.1 (KCNJ1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T79155
+UNIPROID	KLK7_HUMAN
+TARGNAME	Kallikrein-7 (KLK7)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T79400
+UNIPROID	KLK4_HUMAN
+TARGNAME	Kallikrein-4 (KLK4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T79570
+UNIPROID	ATS4_HUMAN
+TARGNAME	Aggrecanase-1 (ADAMTS4)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T80423
+UNIPROID	VHL_HUMAN
+TARGNAME	von Hippel-Lindau disease tumor suppressor (VHL)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T80487
+UNIPROID	DNM3L_HUMAN
+TARGNAME	DNA [cytosine-5]-methyltransferase 3-like (DNMT3L)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T80526
+UNIPROID	CSK22_HUMAN
+TARGNAME	Casein kinase II alpha prime (CSNK2A2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T80853
+UNIPROID	RSSA_HUMAN
+TARGNAME	Laminin receptor 37/67kDa (LRP/LR)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T80959
+UNIPROID	KEAP1_HUMAN-NF2L2_HUMAN
+TARGNAME	Keap1-Nrf2[DLG] PPI (KEAP1-Nrf2 DLG)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T81452
+UNIPROID	ABHD6_HUMAN
+TARGNAME	Monoacylglycerol lipase ABHD6 (ABHD6)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T81780
+UNIPROID	UBA1_HUMAN
+TARGNAME	Ubiquitin-activating enzyme E1 (UBAE1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T82262
+UNIPROID	KKCC2_HUMAN
+TARGNAME	Calmodulin-dependent kinase II (CAMKK2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T82720
+UNIPROID	DYR1B_HUMAN
+TARGNAME	Dual-specificity tyrosine-phosphorylation regulated kinase 1B (DYRK1B)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T83196
+UNIPROID	PSIP1_HUMAN
+TARGNAME	PC4 and SFRS1-interacting protein (PSIP1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T83202
+UNIPROID	KS6A1_HUMAN
+TARGNAME	Ribosomal protein S6 kinase alpha-1 (RSK1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T83904
+UNIPROID	SIR2_HUMAN
+TARGNAME	NAD-dependent deacetylase sirtuin-2 (SIRT2)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T85115
+UNIPROID	PKR1_HUMAN
+TARGNAME	Prokineticin receptor-1 (PROKR1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T86702
+UNIPROID	MMP3_HUMAN
+TARGNAME	Matrix metalloproteinase-3 (MMP-3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T88126
+UNIPROID	NADD_ECOLI
+TARGNAME	Bacterial Nicotinate-nucleotide adenylyltransferase (Bact nadD)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T89565
+UNIPROID	CASP5_HUMAN
+TARGNAME	Caspase-5 (CASP5)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T90167
+UNIPROID	UBC_HUMAN
+TARGNAME	Polyubiquitin-C (UBC)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T90751
+UNIPROID	MGAT1_HUMAN
+TARGNAME	N-acetylglucosaminyltransferase I (NAGAT1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T92517
+UNIPROID	CAN1_HUMAN
+TARGNAME	Calpain-1 (CAPN1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T92803
+UNIPROID	DYR1A_HUMAN
+TARGNAME	Dual-specificity tyrosine-phosphorylation regulated kinase 1A (DYRK1A)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T93653
+UNIPROID	CATL2_HUMAN
+TARGNAME	Cathepsin V (CTSV)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T94324
+UNIPROID	HDA10_HUMAN
+TARGNAME	Histone deacetylase 10 (HDAC10)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T94449
+UNIPROID	PTPRJ_HUMAN
+TARGNAME	Protein-tyrosine phosphatase eta (HPTP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T95878
+UNIPROID	KS6A6_HUMAN
+TARGNAME	Ribosomal protein S6 kinase alpha-6 (RSK6)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T97149
+UNIPROID	DYRK3_HUMAN
+TARGNAME	Dual-specificity tyrosine-phosphorylation regulated kinase 3 (DYRK3)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T97537
+UNIPROID	LCAP_HUMAN
+TARGNAME	Leucyl-cysteinyl aminopeptidase (LNPEP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T97903
+UNIPROID	HDA11_HUMAN
+TARGNAME	Histone deacetylase 11 (HDAC11)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T98062
+UNIPROID	PYGM_HUMAN
+TARGNAME	Glycogen phosphorylase muscle form (GP)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T98264
+UNIPROID	PTN6_HUMAN
+TARGNAME	Protein-tyrosine phosphatase SHP-1 (PTPN6)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T98459
+UNIPROID	CCNB1_HUMAN
+TARGNAME	G2/mitotic-specific cyclin B1 (CCNB1)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T98698
+UNIPROID	HDAC7_HUMAN
+TARGNAME	Histone deacetylase 7 (HDAC7)
+TARGTYPE	Patented-recorded target
+
+TARGETID	T99990
+UNIPROID	BMX_HUMAN
+TARGNAME	Tyrosine-protein kinase BMX (BMX)
+TARGTYPE	Patented-recorded target
+
